@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(76 177 171);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.img-carrusel{
+    align-items: center;
+}
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+    display: flex;
+    background-color: rgb(76 177 171);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    background-color:  rgb(76 177 171);
+}
+.Redes-sociales{
+    display: flex;
+    width: 50px;
+    height: 50px;
+   
+}
+img{
+    margin: 0 auto;
+    padding: 2px 2px 2px 2px;
+    display: flex;
+    justify-content: center;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    color: white;
+}
+form{
+    background-color: aliceblue;
+}
+h3{
+    text-align: center;
+    background-color: rgb(76 177 171);
+    color:black;
+}
